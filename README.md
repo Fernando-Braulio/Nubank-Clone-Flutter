@@ -1,6 +1,6 @@
-# nubank_flutter
+# Home Nubank Clone com Flutter
 
-A new Flutter project.
+Criando a Home do Nubank na Versão Antiga
 
 ## Getting Started
 
